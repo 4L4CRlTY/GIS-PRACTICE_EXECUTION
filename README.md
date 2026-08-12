@@ -39,7 +39,7 @@ GIS_402/
 3. Ablihi ang extracted folder, dayon ablihi ang `GIS_402`.
 4. Basaha ang `README - START PRACTICE HERE.txt`.
 5. Adto sa main [GIS-PRACTICE guide](https://github.com/4L4CRlTY/GIS-PRACTICE).
-6. Sundon ang Exercise 03 guide sa pagkuha sa first dataset ug pagbutang niini sa sakto nga empty `DATA` folder.
+6. Sa downloaded **GIS-PRACTICE main** folder, kopyaha ang **tanang files** sulod sa `GIS_402/DATA/VECTORS/Exercise 03 - Regions` ngadto sa matching empty folder dinhi. Apil ang `.shp`, `.dbf`, `.shx`, `.prj`, ug `.cpg`; walay ibilin.
 7. Padayon hangtod Exercise 16. Ikaw mismo ang maghimo ug mag-save sa tanang outputs.
 
 ## Main guide ug dataset instructions
@@ -55,3 +55,6 @@ Gamita ang **QGIS Desktop 2.14.3 Essen (64-bit)** aron duol sa interface sa old 
 
 > Ayaw ibutang dinhi ang files nga dili gitugotan sa instructor nga i-public. Kung instructor-only ang dataset, kuhaa kini sa official class Drive/LMS/USB ug ibutang sa folder nga giingon sa main guide.
 
+## Kung moingon ang QGIS og Invalid Data Source
+
+Ang valid `Regions.shp` gikan sa current GIS-PRACTICE ZIP kay kapin 1 MB, dili 134 bytes. Kung 134 bytes ra ang imong file, daang Git LFS pointer ZIP kana. I-delete ang daang downloaded Main folder, i-download pag-usab ang current GIS-PRACTICE ZIP, unya kopyaha pag-usab ang tanang files sa Exercise 03 dataset folder.

@@ -1,1 +1,11 @@
-Ibutang dinhi ang Regions.shp uban sa Regions.dbf, Regions.shx, Regions.prj, ug Regions.cpg. Tan-awa ang Exercise 03 guide.
+GIKAN SA DOWNLOADED GIS-PRACTICE MAIN FOLDER:
+GIS_402\DATA\VECTORS\Exercise 03 - Regions
+
+Kopyaha ang TANANG FILES ngadto dinhi. Walay ibilin:
+Regions.shp
+Regions.dbf
+Regions.shx
+Regions.prj
+Regions.cpg
+
+Ang valid Regions.shp kay kapin 1 MB. Kung 134 bytes ra, daang Git LFS pointer ZIP kana. I-download pag-usab ang current GIS-PRACTICE ZIP.
