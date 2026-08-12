@@ -1,0 +1,1 @@
+Optional: ibutang dinhi ang QGIS installer. Kung installed na ang QGIS 2.14.3 Essen, dili na kinahanglan mag-download pag-usab.

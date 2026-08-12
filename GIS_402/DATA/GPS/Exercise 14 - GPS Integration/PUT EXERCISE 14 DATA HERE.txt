@@ -1,0 +1,1 @@
+Sundon ang Exercise 14 guide sa main GIS-PRACTICE repository ug ibutang dinhi ang CSV o GPX input.

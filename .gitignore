@@ -1,0 +1,9 @@
+# QGIS temporary and backup files
+*.qgs~
+*.qgz~
+*.aux.xml
+*.lock
+
+# Windows files
+Thumbs.db
+Desktop.ini
